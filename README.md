@@ -116,3 +116,7 @@ Se evaluarán las siguientes competencias **en ambos notebooks**:
 4. Empieza por la **Parte 1 (setas)** y luego haz la **Parte 2 (tarjetas)**.
 
 > 💡 Cada notebook termina con una sección **«Para ir más allá»** con extensiones opcionales (UMAP, HDBSCAN, reglas de asociación, ingeniería de KPIs…) para quien quiera profundizar.
+>
+> Autores:
+> Manuel Macarro de la Osa
+> Miguel Angel Moreno Delgado
