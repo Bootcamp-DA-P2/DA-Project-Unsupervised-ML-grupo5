@@ -63,3 +63,6 @@ Los cuadernos están desarrollados en **Python 3** utilizando el stack científi
 * **La importancia del Preprocesamiento:** Los datos numéricos requieren escalado obligatorio para evitar que las variables con magnitudes grandes dominen los cálculos de distancia, mientras que los categóricos exigen estrategias de codificación adecuadas.
 * **DBSCAN y la densidad:** DBSCAN demostró que los datos financieros forman una nube continua en lugar de grupos densos separados, funcionando mejor como detector de *outliers*. En las setas, evidenció que la métrica de distancia seleccionada redefine por completo los límites del grupo.
 * **Interpretabilidad vs. Validación Extrínseca:** Se trabaja el contraste entre evaluar un modelo con métricas de alineación externa (como el ARI en las setas) y evaluarlo mediante su utilidad práctica utilizando caracterización de perfiles (en las tarjetas de crédito).
+
+Autores: Manuel Macarro de la Osa Miguel Angel Moreno Delgado
+
